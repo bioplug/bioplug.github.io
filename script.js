@@ -124,7 +124,7 @@
                 <p>Sou Luciana de Paula Santos, doutoranda pela FAU-USP, onde atuo como pesquisadora de doutorado com apoio do CNPq e participo do programa de apoio à docência como professora assistente. Sou graduada em Arquitetura e Urbanismo pela UNESP, com pós-graduação em Estéticas Tecnológicas pelo TIDD/PUC-SP e mestrado em Arquitetura pela FAU-USP.</p>
                 <p>Profissionalmente, acumulo 20 anos de experiência em projetos de alta complexidade, incluindo indústrias, hospitais, parques tecnológicos, universidades e centros de pesquisa. Em 2016, fundei o Estúdio Aisthesis, onde atuo como arquiteta e curadora, desenvolvendo e participando de projetos e exposições no Brasil e no exterior.</p>
                 <p>Minha pesquisa e prática concentram-se nas implicações sociais da convergência entre arquitetura, urbanismo, imagem e tecnologias da inteligência, com especial interesse nos modos como essas articulações produzem formas de percepção, subjetividade e espaço na contemporaneidade.</p>
-                <p>Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e incursões em balé clássico, dança contemporânea e butoh.</p>
+                <p>Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e realizar incursões em balé clássico, dança contemporânea e butoh.</p>
             </div>
         </section>
 
