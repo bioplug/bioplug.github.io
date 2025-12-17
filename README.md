@@ -12,7 +12,7 @@ Profissionalmente, acumulo 20 anos de experiência em projetos de alta complexid
 
 Minha pesquisa e prática concentram-se nas implicações sociais da convergência entre arquitetura, urbanismo, imagem e tecnologias da inteligência, com especial interesse nos modos como essas articulações produzem formas de percepção, subjetividade e espaço na contemporaneidade.
 
-Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar importantes investimentos formativos em balé clássico, dança contemporânea e butoh.
+Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar profundas incursões em balé clássico, dança contemporânea e butoh.
 
 
 
@@ -25,7 +25,7 @@ Professionally, I have accumulated 20 years of experience in high-complexity pro
 
 My research and practice focus on the social implications of the convergence between architecture, urbanism, image, and intelligence technologies, with a special interest in how these articulations produce forms of perception, subjectivity, and space in contemporary times.
 
-Last but not least, I cultivate a deep admiration for dance and classical music, which led me to join the Carlos Gomes Orchestra as a cellist and undertake significant formative investments in classical ballet, contemporary dance, and butoh.
+Last but not least, I cultivate a deep admiration for dance and classical music, which led me to join the Carlos Gomes Orchestra as a cellist and made incursions on classical ballet, contemporary dance, and butoh.
 
 
 Contato
