@@ -12,7 +12,7 @@ Profissionalmente, acumulo 20 anos de experiência em projetos de alta complexid
 
 Minha pesquisa e prática concentram-se nas implicações sociais da convergência entre arquitetura, urbanismo, imagem e tecnologias da inteligência, com especial interesse nos modos como essas articulações produzem formas de percepção, subjetividade e espaço na contemporaneidade.
 
-Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar profundas incursões em balé clássico, dança contemporânea e butoh.
+Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar profundas incursões em balé clássico, dança contemporânea e butoh, que se tornaram os hobbies que amo.
 
 
 
