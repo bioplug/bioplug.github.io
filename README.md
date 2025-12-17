@@ -1,6 +1,6 @@
-**PhD candidate, researcher, professor, architect, curator
+**PhD candidate**, **researcher**, **professor**, **architect**, **curator**
 
-Interests: biodigital architecture and art**
+**Interests**: **biodigital architecture and art**
 
 
 
@@ -31,6 +31,6 @@ Last but not least, I cultivate a deep admiration for dance and classical music,
 
 **Contato**
 
-Email: aisthesislab@gmail.com
+**Email**: aisthesislab@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/lcnsnts/
+**LinkedIn**: https://www.linkedin.com/in/lcnsnts/
