@@ -1,29 +1,97 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: white;
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, serif;
+    color: #000;
+    background-color: #fff;
+    background-image: radial-gradient(#e0e0e0 1px, transparent 1px);
+    background-size: 20px 20px;
+    line-height: 1.8;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 40px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+    border-radius: 1px;
 }
 
 header {
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 h1 {
-    font-size: 17px;
+    font-size: 16pt;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
 }
 
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 20px;
+.subtitle {
+    font-size: 14pt;
+    color: #333;
+    margin-bottom: 15px;
+    line-height: 1.6;
 }
 
-.draggable {
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-    cursor: move;
+.interests {
+    font-size: 14pt;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 40px 0;
+    width: 100%;
+}
+
+h2 {
+    font-size: 16pt;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+
+.biography {
+    font-size: 14pt;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.biography p {
+    margin-bottom: 20px;
+}
+
+.contact {
+    text-align: center;
+    font-size: 14pt;
+    line-height: 2;
+}
+
+.contact a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px dotted #999;
+    transition: border-bottom 0.2s;
+}
+
+.contact a:hover {
+    border-bottom: 1px solid #000;
 }
