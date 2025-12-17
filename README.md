@@ -3,7 +3,8 @@ PhD candidate, researcher, professor, architect, curator
 Interests: biodigital architecture and art
 
 
-Biografia
+
+Biografia (Português)
 
 Sou Luciana de Paula Santos, doutoranda pela FAU-USP, onde atuo como pesquisadora de doutorado com apoio do CNPq e participo do programa de apoio à docência como professora assistente. Sou graduada em Arquitetura e Urbanismo pela UNESP, com pós-graduação em Estéticas Tecnológicas pelo TIDD/PUC-SP e mestrado em Arquitetura pela FAU-USP.
 
@@ -14,7 +15,9 @@ Minha pesquisa e prática concentram-se nas implicações sociais da convergênc
 Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar importantes investimentos formativos em balé clássico, dança contemporânea e butoh.
 
 
-Biography
+
+Biography (English)
+
 
 I am Luciana de Paula Santos, a PhD candidate at FAU-USP, where I work as a doctoral researcher with support from CNPq and participate in the teaching support program as an assistant professor. I hold a degree in Architecture and Urbanism from UNESP, a postgraduate degree in Technological Aesthetics from TIDD/PUC-SP, and a master's degree in Architecture from FAU-USP.
 
