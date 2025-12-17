@@ -14,7 +14,9 @@ Minha pesquisa e prática concentram-se nas implicações sociais da convergênc
 Por fim, mas não menos importante, cultivo uma profunda admiração pela dança e pela música clássica, o que me levou a integrar a Orquestra Carlos Gomes como violoncelista e a realizar importantes investimentos formativos em balé clássico, dança contemporânea e butoh.
 
 
+
 Biography
+
 I am Luciana de Paula Santos, a PhD candidate at FAU-USP, where I work as a doctoral researcher with support from CNPq and participate in the teaching support program as an assistant professor. I hold a degree in Architecture and Urbanism from UNESP, a postgraduate degree in Technological Aesthetics from TIDD/PUC-SP, and a master's degree in Architecture from FAU-USP.
 
 Professionally, I have accumulated 20 years of experience in high-complexity projects, including industries, hospitals, technology parks, universities, and research centers. In 2016, I founded Estúdio Aisthesis, where I work as an architect and curator, developing and participating in projects and exhibitions in Brazil and abroad.
