@@ -1,4 +1,5 @@
 **PhD candidate**, **researcher**, **professor**, **architect**, **curator**
+
 **Biography (English/Português)**
 
 Hello, world! I'm a Ph.D. candidate at the School of Architecture and Urbanism of the University of São Paulo (FAU-USP), where I conduct research with support from CNPq, Brazil's National Council for Scientific and Technological Development. I also work as a teaching assistant through the university's Teaching Improvement Program (PAE). I have a bachelor's degree in architecture and urban planning from UNESP, attended postgraduate courses in Technological Aesthetics at PUC-SP's TIDD Program, and earned my master's degree in Architecture and Urbanism from FAU-USP. 
