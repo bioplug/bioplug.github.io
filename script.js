@@ -161,11 +161,6 @@ PhD candidate, researcher, professor, architect, curator
 https://www.linktr.ee/bioplug
 </a></p>
 
-<p>LinkedIn:<br>
-<a href="https://www.linkedin.com/in/lcnsnts/" target="_blank">
-https://www.linkedin.com/in/lcnsnts/
-</a></p>
-
 </div>
 
 </section>
